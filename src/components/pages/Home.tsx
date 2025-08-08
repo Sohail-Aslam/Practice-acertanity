@@ -39,7 +39,7 @@ const Home = () => {
           className="max-w-4xl mx-auto"
         />
       </div>
-      <div className="min-h-screen p-16">
+      <div className="min-h-screen">
         <VortexDemoSecond />
       </div>
       <div>
